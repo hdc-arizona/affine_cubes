@@ -1,5 +1,4 @@
-#include "crow.h"
-#include "json.h"
+#include "crow_all.h"
 #include <sstream>
 #include <iostream>
 #include "../affine_cube/bvtree.h"
